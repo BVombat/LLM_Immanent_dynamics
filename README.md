@@ -40,7 +40,7 @@
 ## Ссылки
 
 - [Статья на Хабре](https://habr.com/ru/users/BVombat/posts/) — *ссылка появится после публикации*
-- [Google Colab с симуляциями](https://colab.research.google.com/github/ваш_аккаунт/idd-method/blob/main/code/simulation.ipynb) — *заменить после заливки*
+- https://colab.research.google.com/drive/1MNuzoG4NhV5ws1LB_kaHpWQuzPJlT8om#scrollTo=Wte6YkgR1vjr — *заменить после заливки*
 
 ---
 
