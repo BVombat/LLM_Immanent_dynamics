@@ -39,7 +39,7 @@
 
 ## Ссылки
 
-- [Статья на Хабре](https://habr.com/ru/users/BVombat/posts/)
+- [Статья на Хабре](https://habr.com/ru/users/BVombat/articles/sandbox/)
 - [Расчёты на Google Colab](https://colab.research.google.com/drive/1MNuzoG4NhV5ws1LB_kaHpWQuzPJlT8om#scrollTo=Wte6YkgR1vjr)
 
 ---
